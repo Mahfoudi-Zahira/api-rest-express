@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  {
+    "id": 1,
+    "nom": "Chaise",
+    "prix": 150
+  },
+  null,
+  {
+    "id": 2,
+    "nom": "Table",
+    "prix": 300
+  },
+  {
+    "id": 2,
+    "nom": "Table",
+    "prix": 300
+  },
+  {
+    "id": 2,
+    "nom": "Table",
+    "prix": 300
+  }
+]
